@@ -1,0 +1,3 @@
+F:/robocon/remote_control/nrf/remote_control_nrf/cmake-build-debug/CMakeFiles/remote_control_nrf.elf.dir
+F:/robocon/remote_control/nrf/remote_control_nrf/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/robocon/remote_control/nrf/remote_control_nrf/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+CMakeFiles/remote_control_nrf.elf.dir/Core/Src/sysmem.c.obj: \
+ F:\robocon\remote_control\nrf\remote_control_nrf\Core\Src\sysmem.c \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\errno.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\sys\errno.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\sys\reent.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\_ansi.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\newlib.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\_newlib_version.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\sys\config.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\machine\ieeefp.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\sys\features.h \
+ d:\programfiles\amr\12977f~1.2mp\lib\gcc\arm-none-eabi\12.2.1\include\stddef.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\sys\_types.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\machine\_types.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\machine\_default_types.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\sys\lock.h \
+ d:\programfiles\amr\12977f~1.2mp\lib\gcc\arm-none-eabi\12.2.1\include\stdint.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\stdint.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\sys\_intsup.h \
+ d:\programfiles\amr\12977f~1.2mp\arm-none-eabi\include\sys\_stdint.h
